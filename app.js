@@ -43,5 +43,5 @@ app.get("/reload",function(req,res){
 })
 
 app.listen(port,function(req,res){
-    console.log("app listen on port 3000");
+    console.log("Server has started successfully");
 });
