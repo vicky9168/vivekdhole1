@@ -43,5 +43,5 @@ app.get("/reload",function(req,res){
 })
 
 app.listen(port,function(req,res){
-    console.log("Server has started successfully");
+    console.log(`Server has started successfully ${port}`);
 });
