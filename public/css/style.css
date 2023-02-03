@@ -123,6 +123,9 @@ ul{
     justify-content: center;
     padding-bottom:35px;
 }
+.row a{
+    text-decoration: none;
+}
 footer{
     padding:15px;
     text-align: center; 
